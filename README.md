@@ -14,3 +14,7 @@ $ source ~/.bashrc
 ```bash
 $ credit test.sin
 ```
+
+### 코드
+
+It is a language still under development.
