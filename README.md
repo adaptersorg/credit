@@ -9,7 +9,7 @@ $ bash credit_installer.bash
 $ source ~/.bashrc
 ```
 
-### How to User
+### How to Compile
 
 ```bash
 $ credit test.sin
